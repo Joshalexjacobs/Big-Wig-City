@@ -1,0 +1,64 @@
+Kitchen Fire
+Whoops! Looks like someone started a fire in the kitchen again, that's going to cost you!
+100
+1000
+Meeting Room Fire
+Those industrial laser pointers are a lot stronger than we thought!
+1000
+1500
+Bathroom Fire
+How did they even manage that?!
+2000
+3000
+Clogged Toilet
+Oh wow this one is real rough. The janitor is straight up refusing to go in there too. You're going to have to hire a pro! Or go fix it yourself? Yikes!
+100
+1000
+Cherry Bomb
+Some jokester thought it would be really funny to throw a cherry bomb into the men's bathroom and blow up a whole stall! We didn't catch the kid, but he did invite us to chow down on his shorts.
+2000
+3000
+You Suck
+Someone keeps tagging "You Suck" all over the outside of our building. We set up security cameras to catch the culprit, but they just tagged those too.
+100
+1000
+Server Fire
+Probably should have invested in some better cooling equipment.
+2000
+3000
+Paper Jam
+The printer was backed up all morning setting some of your employees waaaay behind.
+100
+1000
+Colossal Paper Jam
+Oh man. It's bad, like really really bad. Looks like you'll be needing a new printer.
+1000
+1500
+Walkout
+Some guy named Jeff organized a walk out today after lunch... I don't think he even works here!
+100
+1000
+Strike
+A handful of employees are refusing to work until they get paid lunch breaks. Sorry bud!
+1000
+1500
+Hacked
+Looks like 1287LeetGod made their way past your firewall and is holding a bunch of personal client info ransom. Good thing he's just a low time crook and isn't asking for much.
+100
+1000
+Maliciously Hacked
+Some unknown hacker just uploaded 10 terabytes of porn onto your servers! You'd think you would have seen this coming... He must have some seriously impressive upload speeds!
+2000
+3000
+Servers Down
+Our servers have been down most of the day, some of the devs weren't able to get much done today. Guess you'll have go push that deadline back another week!
+1000
+1500
+Balloon Fight
+Some of the folks in accounting thought it would be exciting to have a balloon fight in the office. Turns out thats not such a great idea.
+2000
+3000
+Coffee Spill
+Pete the intern spilt coffee all over our brand new test machines! Way to go Pete!
+1000
+1500
